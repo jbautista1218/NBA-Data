@@ -3,6 +3,8 @@ Since my interest for data started from watching sports games and ESPN all the t
 
 As of now, I have data for player averages per season and team records per season. 
 
+All data comes from "www.basketball-reference.com/"
+
 Future plans:
   - Compile more data
       - Include more seasons
