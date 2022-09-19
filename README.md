@@ -6,12 +6,14 @@ Since my interest for data started from watching sports games and ESPN all the t
   Python:
   
     NBA_WebScrape.py (packages used: BeautifulSoup, Selenium, pandas)
-      mvps.csv
-      players.csv
-      team_abbrv.csv
-      teams.csv
+      Used to create the following .csv files:
+        mvps.csv
+        players.csv
+        team_abbrv.csv
+        teams.csv
     DataCleaning.py (packages used: pandas)
-      NBA_data.csv
+      Used to create the following .csv files:
+        NBA_data.csv
     MVP_ML.py (in-progress) (packages used: scikit-learn)
   
   MySQL:
