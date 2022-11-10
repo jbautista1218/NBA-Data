@@ -1,5 +1,11 @@
 # NBA-Data
-Since my interest for data started from watching sports games and ESPN all the time, I thought it would only be right to work on a project including those things. In this project, I have compiled stats from the NBA dating back to the 1999-00 season (around when I first started watching basketball). 
+
+### Introduction 
+Since my interest for data started from keeping up with stats for sports as a kid, I thought it would be interesting to work on a project using that data. In this project, I have compiled stats from the NBA dating back to the 1999-00 season (around when I first started watching basketball) until the 2021-2022 season. I used various Python tools to pull the data from the internet, clean/organize the data, and used Machine-learning toolkits in Python to give MVP predictions based on player and team statistics. The data was also exported into SQL and Tableau for data analysis and visualization, to gain insights on trends and relationships throughout the NBA seasons.
+
+## Observations
+
+
 
 #### Included Files:
 
@@ -34,4 +40,4 @@ Future plans:
       - MVP predictions (in-progress)
   - More Data Visualizations
   
-  All data comes from "www.basketball-reference.com/"
+  Credit: All data comes from "www.basketball-reference.com/"
