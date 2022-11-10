@@ -5,7 +5,9 @@ Since my interest for data started from keeping up with stats for sports as a ki
 
 ### Observations
 
+As expected, when using the ridge regression and random forest regression, it was able to give some fairly accurate predictions as I increased the machine-learning training period (include more historical data). Of course it wasn't able to give 100% accurate results, but with sports and many other things, there is the human factor that is extremely difficult to put into measurable numbers and variables in an easy and consumable way. 
 
+Some context has to be put behind every result. Something that can't be easily quantified are "storylines" that occur during a season that have to be accounted for. Things like a player coming back from an injury to lead his team throughout the season, or struggles within a team where an MVP-caliber player might be the focus and "life" of a team although they might not come out of the season with better ressults than their competitors. These are huge talking points during a season and can heavily effect how an athlete is percieved by the fanbase and media, especially when it comes to MVP voting where subjectivity can play a major role.
 
 #### Included Files:
 
@@ -20,7 +22,7 @@ Since my interest for data started from keeping up with stats for sports as a ki
     DataCleaning.py (packages used: pandas)
       Used to create the following .csv files:
         NBA_data.csv
-    MVP_ML.py (in-progress) (packages used: scikit-learn)
+    MVP_prediction.ipynb (packages used: scikit-learn)
   
   MySQL:
   
@@ -36,8 +38,6 @@ Future plans:
       - Advanced team stats
       - Advanced player stats
       - Per-game stats
-  - Utilizing Python machine learning tools (scikit)
-      - MVP predictions (in-progress)
   - More Data Visualizations
   
   Credit: All data comes from "www.basketball-reference.com/"
